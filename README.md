@@ -5,11 +5,7 @@
 - 📚 I’m currently studying computer engineering
 - 📫 How to reach me: bryan-de-sa@hotmail.com
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/brayan-cavalcanti-9b9979212/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bry055&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bry055&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
